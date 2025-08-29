@@ -1,9 +1,6 @@
 <template>
-  <div class="bg-gray">
-    <h1>Home</h1>
-
-    <!-- components -->
-    <Ex />
+  <div>
+    <h1>Ex</h1>
   </div>
 </template>
 
